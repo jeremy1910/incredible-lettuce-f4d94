@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Agence web en région PACA - Création site internet - Référencement
     content: >-
-      Votre agence web s'occupe de la création de votre site internet de A à Z
+      Votre agence web s'occupe de la création de votre site internet de A à Z.
   - section_id: about
     type: section_content
     title: Création de site internet et référencement en région PACA, Marseille, Nice, Aix-en-provence
